@@ -1,5 +1,5 @@
 # Vanilla-JavaScript-SideBar-
-SideBar  developed in Vanilla JavaScript
+Responsive SideBar  developed in Vanilla JavaScript
 
 
 
